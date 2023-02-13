@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:Shared] /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/e291401a0911c12c4cd74f1c991c6364/transformed/material-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/3710454ae8bf77a22d97e1be480c4cb2/transformed/material-ripple-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/c4283842e55df2ec8ca58576dd458e92/transformed/foundation-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.6.1] /Users/itskoshkin/.gradle/caches/transforms-3/7328cfe7cd18663f1e40c97dc0b3f632/transformed/activity-compose-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/5966630b768840f8a5a81e3007656f9b/transformed/animation-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/6d7fd2b64103f53ffdbae4534404f4fb/transformed/ui-tooling-data-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/05b7ca4ed257549ccd7dcdcb7c728c91/transformed/foundation-layout-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/544bff23c437c2778043a48a4695f09c/transformed/material-icons-core-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/089c3aa26ca2abfedc873bdbfb5de3ab/transformed/animation-core-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/87e5affa214b8db12c8ba9be307aa151/transformed/ui-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/c0532f6ae2d86100b3eafc5c01cf6ef6/transformed/ui-tooling-preview-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/7a46fea19335f5952524d355947a7a21/transformed/ui-text-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/d037255c30671748b37b886f53b070dc/transformed/runtime-saveable-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/f3fe4acd38d568fc7ac837846b6a7d0c/transformed/ui-graphics-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/49e50224001d0083dedfb83f29f1f9bb/transformed/ui-unit-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/a6cba52ad7d071f8236835b73604e844/transformed/ui-geometry-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/32e6362eaa4a504816ecdb90dbc31c54/transformed/runtime-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.1] /Users/itskoshkin/.gradle/caches/transforms-3/24a7b0f01e2fe4e2fa035cdae366a570/transformed/activity-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] /Users/itskoshkin/.gradle/caches/transforms-3/a30485e5763ffc45960b5ba5ae690746/transformed/activity-ktx-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/968814d9860f5f67a9687d71a8735e31/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/aa1c234b2e089826c79d7e0e7af1560a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/5a1625411058ab24a0bde92c1c3ea217/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/99f02c0fa917d8cacff7c4907b6734d7/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/itskoshkin/.gradle/caches/transforms-3/2bc65c50eec3561f3097069c76393bcf/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/itskoshkin/.gradle/caches/transforms-3/5fbf9dfa469f9bb56c20657b704339e7/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/itskoshkin/.gradle/caches/transforms-3/9f44b069c0eb9189782827407479cfca/transformed/core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core:1.8.0] /Users/itskoshkin/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/f90e9455424ebb2c1ad7862230bbdbf1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/b6a9b3a52c6f7088282de956d88c17d9/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/baae4c1721ee5c3af25259f4afb7abfb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/f61048aaaa4aefbfc2b6b04bffcb0855/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/itskoshkin/.gradle/caches/transforms-3/9c34ff35d3f12f431d9c7ddab2117902/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/itskoshkin/.gradle/caches/transforms-3/452ee8dc938424ca5651e578fb075719/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/be9dcf7a577547e588efbdb46fc02276/transformed/ui-util-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/itskoshkin/.gradle/caches/transforms-3/1021598e4bc454449e533aa88c166387/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:4:5-16:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.8.0] /Users/itskoshkin/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/itskoshkin/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/itskoshkin/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:6:9-35
+	android:allowBackup
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:5:9-36
+	android:theme
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:7:9-40
+activity#ru.itskoshkin.tasku.android.MainActivity
+ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:8:9-15:20
+	android:exported
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:9:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+MERGED from [:Shared] /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:Shared] /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/e291401a0911c12c4cd74f1c991c6364/transformed/material-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/e291401a0911c12c4cd74f1c991c6364/transformed/material-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/3710454ae8bf77a22d97e1be480c4cb2/transformed/material-ripple-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/3710454ae8bf77a22d97e1be480c4cb2/transformed/material-ripple-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/c4283842e55df2ec8ca58576dd458e92/transformed/foundation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/c4283842e55df2ec8ca58576dd458e92/transformed/foundation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.6.1] /Users/itskoshkin/.gradle/caches/transforms-3/7328cfe7cd18663f1e40c97dc0b3f632/transformed/activity-compose-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.6.1] /Users/itskoshkin/.gradle/caches/transforms-3/7328cfe7cd18663f1e40c97dc0b3f632/transformed/activity-compose-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/5966630b768840f8a5a81e3007656f9b/transformed/animation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/5966630b768840f8a5a81e3007656f9b/transformed/animation-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/6d7fd2b64103f53ffdbae4534404f4fb/transformed/ui-tooling-data-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/6d7fd2b64103f53ffdbae4534404f4fb/transformed/ui-tooling-data-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/05b7ca4ed257549ccd7dcdcb7c728c91/transformed/foundation-layout-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/05b7ca4ed257549ccd7dcdcb7c728c91/transformed/foundation-layout-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/544bff23c437c2778043a48a4695f09c/transformed/material-icons-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/544bff23c437c2778043a48a4695f09c/transformed/material-icons-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/089c3aa26ca2abfedc873bdbfb5de3ab/transformed/animation-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/089c3aa26ca2abfedc873bdbfb5de3ab/transformed/animation-core-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/87e5affa214b8db12c8ba9be307aa151/transformed/ui-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/87e5affa214b8db12c8ba9be307aa151/transformed/ui-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/c0532f6ae2d86100b3eafc5c01cf6ef6/transformed/ui-tooling-preview-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/c0532f6ae2d86100b3eafc5c01cf6ef6/transformed/ui-tooling-preview-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/7a46fea19335f5952524d355947a7a21/transformed/ui-text-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/7a46fea19335f5952524d355947a7a21/transformed/ui-text-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/d037255c30671748b37b886f53b070dc/transformed/runtime-saveable-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/d037255c30671748b37b886f53b070dc/transformed/runtime-saveable-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/f3fe4acd38d568fc7ac837846b6a7d0c/transformed/ui-graphics-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/f3fe4acd38d568fc7ac837846b6a7d0c/transformed/ui-graphics-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/49e50224001d0083dedfb83f29f1f9bb/transformed/ui-unit-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/49e50224001d0083dedfb83f29f1f9bb/transformed/ui-unit-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/a6cba52ad7d071f8236835b73604e844/transformed/ui-geometry-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/a6cba52ad7d071f8236835b73604e844/transformed/ui-geometry-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/32e6362eaa4a504816ecdb90dbc31c54/transformed/runtime-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/32e6362eaa4a504816ecdb90dbc31c54/transformed/runtime-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /Users/itskoshkin/.gradle/caches/transforms-3/24a7b0f01e2fe4e2fa035cdae366a570/transformed/activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] /Users/itskoshkin/.gradle/caches/transforms-3/24a7b0f01e2fe4e2fa035cdae366a570/transformed/activity-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] /Users/itskoshkin/.gradle/caches/transforms-3/a30485e5763ffc45960b5ba5ae690746/transformed/activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] /Users/itskoshkin/.gradle/caches/transforms-3/a30485e5763ffc45960b5ba5ae690746/transformed/activity-ktx-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/968814d9860f5f67a9687d71a8735e31/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/968814d9860f5f67a9687d71a8735e31/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/aa1c234b2e089826c79d7e0e7af1560a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/aa1c234b2e089826c79d7e0e7af1560a/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/5a1625411058ab24a0bde92c1c3ea217/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/5a1625411058ab24a0bde92c1c3ea217/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/99f02c0fa917d8cacff7c4907b6734d7/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/99f02c0fa917d8cacff7c4907b6734d7/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/itskoshkin/.gradle/caches/transforms-3/2bc65c50eec3561f3097069c76393bcf/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/itskoshkin/.gradle/caches/transforms-3/2bc65c50eec3561f3097069c76393bcf/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/itskoshkin/.gradle/caches/transforms-3/5fbf9dfa469f9bb56c20657b704339e7/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/itskoshkin/.gradle/caches/transforms-3/5fbf9dfa469f9bb56c20657b704339e7/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/itskoshkin/.gradle/caches/transforms-3/9f44b069c0eb9189782827407479cfca/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/itskoshkin/.gradle/caches/transforms-3/9f44b069c0eb9189782827407479cfca/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core:1.8.0] /Users/itskoshkin/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/itskoshkin/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/ab9d1b8d11f063d8e2d29669fc19e6ea/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/f90e9455424ebb2c1ad7862230bbdbf1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/f90e9455424ebb2c1ad7862230bbdbf1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/b6a9b3a52c6f7088282de956d88c17d9/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/b6a9b3a52c6f7088282de956d88c17d9/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/baae4c1721ee5c3af25259f4afb7abfb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/baae4c1721ee5c3af25259f4afb7abfb/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/f61048aaaa4aefbfc2b6b04bffcb0855/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/itskoshkin/.gradle/caches/transforms-3/f61048aaaa4aefbfc2b6b04bffcb0855/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/itskoshkin/.gradle/caches/transforms-3/9c34ff35d3f12f431d9c7ddab2117902/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/itskoshkin/.gradle/caches/transforms-3/9c34ff35d3f12f431d9c7ddab2117902/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/itskoshkin/.gradle/caches/transforms-3/452ee8dc938424ca5651e578fb075719/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/itskoshkin/.gradle/caches/transforms-3/452ee8dc938424ca5651e578fb075719/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/be9dcf7a577547e588efbdb46fc02276/transformed/ui-util-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/be9dcf7a577547e588efbdb46fc02276/transformed/ui-util-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/itskoshkin/.gradle/caches/transforms-3/1021598e4bc454449e533aa88c166387/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/itskoshkin/.gradle/caches/transforms-3/1021598e4bc454449e533aa88c166387/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/itskoshkin/.gradle/caches/transforms-3/f2908d1a046b705c8ab0b13d8cf08730/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82

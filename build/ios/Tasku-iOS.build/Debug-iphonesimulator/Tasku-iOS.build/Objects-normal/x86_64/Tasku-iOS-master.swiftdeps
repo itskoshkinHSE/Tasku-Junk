@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "8fdf49a8a559216970383d4ac2d6fc01cda0d3fbafdbd877fbdd50e48678391e"
+build_start_time: [1676320262, 593763828]
+build_end_time: [1676320265, 193622112]
+inputs:
+  "/Users/itskoshkin/DevLab/Projects/Tasku/Tasku-iOS/Tasku-iOS/ContentView.swift": [1676319766, 708304405]
+  "/Users/itskoshkin/DevLab/Projects/Tasku/Tasku-iOS/Tasku-iOS/iOSApp.swift": [1676319766, 711362838]
