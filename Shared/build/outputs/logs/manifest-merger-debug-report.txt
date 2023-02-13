@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml:2:13-83
-INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml:2:13-83
-INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml:2:13-83
+ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml:2:13-83
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml:2:13-83
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml:2:13-83
 	package
-		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
-		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml:2:13-83
-		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml:2:13-83
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
 	xmlns:android
-		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml:2:23-81
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml:2:23-81
 uses-sdk
-INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml reason: use-sdk injection requested
-INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
-INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
-INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
-INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml reason: use-sdk injection requested
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
+INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
 	android:targetSdkVersion
-		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
-		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
-		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
 	android:minSdkVersion
-		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
-		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
-		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14997183896582710385.xml
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
+		ADDED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
+		INJECTED from /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml

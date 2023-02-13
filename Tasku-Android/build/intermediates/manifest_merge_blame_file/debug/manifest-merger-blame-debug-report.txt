@@ -15,7 +15,7 @@
 12        android:allowBackup="false"
 12-->/Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/src/main/AndroidManifest.xml:5:9-36
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.8.0] /Users/itskoshkin/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.8.0] /Users/itskoshkin/.gradle/caches/transforms-3/f8be005de4f29af90ce648580c1321fd/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:supportsRtl="true"
@@ -41,51 +41,51 @@
 26            </intent-filter>
 27        </activity>
 28        <activity
-28-->[androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:23:9-25:39
+28-->[androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/8d93a143d7b5f586674247d50e9b5dd0/transformed/ui-tooling-1.3.1/AndroidManifest.xml:23:9-25:39
 29            android:name="androidx.compose.ui.tooling.PreviewActivity"
-29-->[androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:24:13-71
+29-->[androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/8d93a143d7b5f586674247d50e9b5dd0/transformed/ui-tooling-1.3.1/AndroidManifest.xml:24:13-71
 30            android:exported="true" />
-30-->[androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/0200d833d384e37ac2f986d17f533c71/transformed/ui-tooling-1.3.1/AndroidManifest.xml:25:13-36
+30-->[androidx.compose.ui:ui-tooling:1.3.1] /Users/itskoshkin/.gradle/caches/transforms-3/8d93a143d7b5f586674247d50e9b5dd0/transformed/ui-tooling-1.3.1/AndroidManifest.xml:25:13-36
 31
 32        <provider
-32-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+32-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
 33            android:name="androidx.startup.InitializationProvider"
-33-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+33-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
 34            android:authorities="ru.itskoshkin.tasku.android.androidx-startup"
-34-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+34-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
 35            android:exported="false" >
-35-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+35-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
 36            <meta-data
-36-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+36-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
 37                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-37-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+37-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
 38                android:value="androidx.startup" />
-38-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+38-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
 39        </provider>
 40
 41        <receiver
-41-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+41-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
 42            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-42-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+42-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
 43            android:directBootAware="false"
-43-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+43-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
 44            android:enabled="true"
-44-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+44-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
 45            android:exported="true"
-45-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+45-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
 46            android:permission="android.permission.DUMP" >
-46-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+46-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
 47            <intent-filter>
-47-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+47-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
 48                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-48-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
-48-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+48-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+48-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
 49            </intent-filter>
 50            <intent-filter>
-50-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+50-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
 51                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-51-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
-51-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/d7a8a82724cb766c902e6ec3fcae160b/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
+51-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+51-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/itskoshkin/.gradle/caches/transforms-3/0827e6a65339f6f2623506db55a357d7/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
 52            </intent-filter>
 53        </receiver>
 54    </application>
