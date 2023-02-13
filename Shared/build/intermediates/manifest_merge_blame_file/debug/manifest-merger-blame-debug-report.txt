@@ -2,10 +2,7 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="ru.itskoshkin.tasku" >
 4
-5    <uses-sdk
-6        android:minSdkVersion="23"
-6-->/Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
-7        android:targetSdkVersion="33" />
-7-->/Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest4926462508799468804.xml
-8
-9</manifest>
+5    <uses-sdk android:minSdkVersion="23" />
+5-->D:\IDEprojects\AndroidProjects\test_projects\Tasku0\Shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16558668861339953631.xml
+6
+7</manifest>

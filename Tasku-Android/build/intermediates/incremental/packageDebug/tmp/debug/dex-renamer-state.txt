@@ -1,13 +1,13 @@
-#Tue Feb 14 00:38:55 MSK 2023
-path.3=10/classes.dex
-path.2=0/classes.dex
-path.1=4/classes.dex
+#Tue Feb 14 01:29:49 MSK 2023
+base.0=D\:\\IDEprojects\\AndroidProjects\\test_projects\\Tasku0\\Tasku-Android\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=D\:\\IDEprojects\\AndroidProjects\\test_projects\\Tasku0\\Tasku-Android\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\4\\classes.dex
+base.2=D\:\\IDEprojects\\AndroidProjects\\test_projects\\Tasku0\\Tasku-Android\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=D\:\\IDEprojects\\AndroidProjects\\test_projects\\Tasku0\\Tasku-Android\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
 path.0=classes.dex
-base.3=/Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
-base.2=/Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.1=/Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/build/intermediates/dex/debug/mergeLibDexDebug/4/classes.dex
-base.0=/Users/itskoshkin/DevLab/Projects/Tasku/Tasku-Android/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
+path.1=4/classes.dex
+path.2=0/classes.dex
+path.3=10/classes.dex
 renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

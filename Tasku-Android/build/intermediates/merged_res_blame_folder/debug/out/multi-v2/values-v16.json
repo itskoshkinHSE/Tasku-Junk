@@ -4,7 +4,7 @@
             "outputFile": "ru.itskoshkin.tasku.android.Tasku-Android-mergeDebugResources-39:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/itskoshkin/.gradle/caches/transforms-3/f8be005de4f29af90ce648580c1321fd/transformed/core-1.8.0/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\a3014a9fc4ad23ce3521a3913b446ffa\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
