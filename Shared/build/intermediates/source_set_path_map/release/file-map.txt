@@ -1,0 +1,9 @@
+com.example.test.Shared-pngs-0 /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/generated/res/pngs/release
+com.example.test.Shared-resValues-1 /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/generated/res/resValues/release
+com.example.test.Shared-rs-2 /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/generated/res/rs/release
+com.example.test.Shared-mergeReleaseResources-3 /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.test.Shared-mergeReleaseResources-4 /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.test.Shared-merged_res-5 /Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/merged_res/release
+com.example.test.Shared-androidMain-6 /Users/itskoshkin/DevLab/Projects/Tasku/Shared/src/androidMain/res
+com.example.test.Shared-main-7 /Users/itskoshkin/DevLab/Projects/Tasku/Shared/src/main/res
+com.example.test.Shared-release-8 /Users/itskoshkin/DevLab/Projects/Tasku/Shared/src/release/res

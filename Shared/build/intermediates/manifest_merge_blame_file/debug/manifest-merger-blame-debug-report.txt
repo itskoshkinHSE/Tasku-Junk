@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="ru.itskoshkin.tasku" >
+3    package="com.example.test" >
 4
-5    <uses-sdk android:minSdkVersion="23" />
-5-->D:\IDEprojects\AndroidProjects\test_projects\Tasku0\Shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16558668861339953631.xml
+5    <uses-sdk android:minSdkVersion="21" />
+5-->/Users/itskoshkin/DevLab/Projects/Tasku/Shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17087795205656502857.xml
 6
 7</manifest>

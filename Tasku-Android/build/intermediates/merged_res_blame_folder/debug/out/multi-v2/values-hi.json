@@ -4,7 +4,7 @@
             "outputFile": "ru.itskoshkin.tasku.android.Tasku-Android-mergeDebugResources-39:/values-hi/values-hi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\87e5affa214b8db12c8ba9be307aa151\\transformed\\ui-1.3.1\\res\\values-hi\\values-hi.xml",
+                    "source": "/Users/itskoshkin/.gradle/caches/transforms-3/87e5affa214b8db12c8ba9be307aa151/transformed/ui-1.3.1/res/values-hi/values-hi.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\a3014a9fc4ad23ce3521a3913b446ffa\\transformed\\core-1.8.0\\res\\values-hi\\values-hi.xml",
+                    "source": "/Users/itskoshkin/.gradle/caches/transforms-3/a3014a9fc4ad23ce3521a3913b446ffa/transformed/core-1.8.0/res/values-hi/values-hi.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
